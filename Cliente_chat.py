@@ -29,4 +29,4 @@ class Cliente:
 
 
 if __name__ == '__main__':
-    cliente = Cliente(input())
+    cliente = Cliente(input("coloque o ip do sevidor: \n"))
